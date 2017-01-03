@@ -1,0 +1,82 @@
+[
+    {
+        "Absen": 1,
+        "NIM": "12301",
+        "Nama": "Zira",
+        "Kelas": "TMJ 5 Reguler",
+        "Prodi": "TMJ",
+        "Jurusan": "TIK"
+    },
+    {
+        "Absen": 2,
+        "NIM": "12302",
+        "Nama": "Ratna",
+        "Kelas": "TMJ 5 Reguler",
+        "Prodi": "TMJ",
+        "Jurusan": "TIK"
+    },
+    {
+        "Absen": 3,
+        "NIM": "12303",
+        "Nama": "Manusia",
+        "Kelas": "TKJ 5",
+        "Prodi": "TKJ",
+        "Jurusan": "TIK"
+    },
+    {
+        "Absen": 4,
+        "NIM": "12304",
+        "Nama": "Anida",
+        "Kelas": "TT 5B",
+        "Prodi": "Telkom",
+        "Jurusan": "TE"
+    },
+    {
+        "Absen": 5,
+        "NIM": "12305",
+        "Nama": "Lia",
+        "Kelas": "ABT 7A",
+        "Prodi": "ABT",
+        "Jurusan": "AN"
+    },
+    {
+        "Absen": 6,
+        "NIM": "12306",
+        "Nama": "Nasywa",
+        "Kelas": "DG 3F",
+        "Prodi": "DG",
+        "Jurusan": "TGP"
+    },
+    {
+        "Absen": 7,
+        "NIM": "12307",
+        "Nama": "Almasih",
+        "Kelas": "TM 5R",
+        "Prodi": "PP",
+        "Jurusan": "TM"
+    },
+    {
+        "Absen": 8,
+        "NIM": "12308",
+        "Nama": "Abdullah",
+        "Kelas": "TM 5A",
+        "Prodi": "TM",
+        "Jurusan": "TM"
+    },
+    {
+        "Absen": 9,
+        "NIM": "12309",
+        "Nama": "Muna",
+        "Kelas": "TKS 5",
+        "Prodi": "TKS",
+        "Jurusan": "TS"
+    },
+    {
+        "Absen": 10,
+        "NIM": "12310",
+        "Nama": "Devina",
+        "Kelas": "BS 7A",
+        "Prodi": "D4 BS",
+        "Jurusan": "AK"
+    }
+]
